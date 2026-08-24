@@ -99,7 +99,7 @@
       <table>
         <tr>
           <td style="background: #101828; border: 1px solid #2a3550; border-radius: 10px; padding: 18px;">
-            <h3 style="margin-top: 0;">🏔️ highland-estate</h3>
+            <h3 style="margin-top: 0;"><img src="img/marks/highland-estate.svg" width="34" height="34" alt="" style="vertical-align: -4px; margin-right: 8px; border-radius: 8px;">highland-estate</h3>
             <p>A <b>luxury coffee-estate resort landing page</b>. Cinematic hero, smooth-scroll sections, and a modern Next.js architecture built to feel like a five-star hospitality brand.</p>
             <a href="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/></a>
             <a href="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/></a>
@@ -114,10 +114,10 @@
       <table>
         <tr>
           <td style="background: #101828; border: 1px solid #2a3550; border-radius: 10px; padding: 18px;">
-            <h3 style="margin-top: 0;">🎬 ai-video-studio</h3>
+            <h3 style="margin-top: 0;"><img src="img/marks/ai-video-studio.svg" width="34" height="34" alt="" style="vertical-align: -4px; margin-right: 8px; border-radius: 8px;">ai-video-studio</h3>
             <p>A <b>generative AI content studio</b>. Automated content production using a plan-then-execute agentic workflow — the agent plans, writes grounded content, and assembles publish-ready output.</p>
             <a href="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
-            <a href="https://img.shields.io/badge/Agentic_AI-E8C877-0b0f19?style=for-the-badge"><img src="https://img.shields.io/badge/Agentic_AI-E8C877-0b0f19?style=for-the-badge"/></a>
+            <a href="https://img.shields.io/badge/Agentic_AI-C88B5A?style=for-the-badge"><img src="https://img.shields.io/badge/Agentic_AI-C88B5A?style=for-the-badge"/></a>
             <a href="https://img.shields.io/badge/LLM_Workflows-412991?style=for-the-badge&logo=openai&logoColor=white"><img src="https://img.shields.io/badge/LLM_Workflows-412991?style=for-the-badge&logo=openai&logoColor=white"/></a>
             <br/><br/>
             <a href="https://github.com/tawsif-raza/ai-video-studio">⚡ <b>View Code</b></a>
@@ -131,11 +131,11 @@
       <table>
         <tr>
           <td style="background: #101828; border: 1px solid #2a3550; border-radius: 10px; padding: 18px;">
-            <h3 style="margin-top: 0;">📡 ai-auto-post</h3>
+            <h3 style="margin-top: 0;"><img src="img/marks/ai-auto-post.svg" width="34" height="34" alt="" style="vertical-align: -4px; margin-right: 8px; border-radius: 8px;">ai-auto-post</h3>
             <p>An <b>end-to-end AI publishing pipeline</b>: auto image generation → YouTube video publishing, fully automated with agentic workflows. Content that posts itself.</p>
             <a href="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
             <a href="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-            <a href="https://img.shields.io/badge/Image_Gen-E8C877-0b0f19?style=for-the-badge&logo=imagekit"><img src="https://img.shields.io/badge/Image_Gen-E8C877-0b0f19?style=for-the-badge&logo=imagekit"/></a>
+            <a href="https://img.shields.io/badge/Image_Gen-5B7FA6?style=for-the-badge&logo=imagekit&logoColor=white"><img src="https://img.shields.io/badge/Image_Gen-5B7FA6?style=for-the-badge&logo=imagekit&logoColor=white"/></a>
             <br/><br/>
             <a href="https://github.com/tawsif-raza/ai-auto-post">⚡ <b>View Code</b></a>
           </td>
@@ -146,7 +146,7 @@
       <table>
         <tr>
           <td style="background: #101828; border: 1px solid #2a3550; border-radius: 10px; padding: 18px;">
-            <h3 style="margin-top: 0;">🎙️ ai-voice-employee</h3>
+            <h3 style="margin-top: 0;"><img src="img/marks/ai-voice-employee.svg" width="34" height="34" alt="" style="vertical-align: -4px; margin-right: 8px; border-radius: 8px;">ai-voice-employee</h3>
             <p>The <b>AI voice employee</b>. Custom voice models via LoRA fine-tuning — training speech that sounds natural, consistent, and on-brand.</p>
             <a href="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
             <a href="https://img.shields.io/badge/LoRA_Training-8E44AD?style=for-the-badge"><img src="https://img.shields.io/badge/LoRA_Training-8E44AD?style=for-the-badge"/></a>
