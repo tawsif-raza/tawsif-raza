@@ -19,16 +19,49 @@
 
 <table>
   <tr>
-    <td align="center" width="52%">
-      <img src="https://github-readme-stats.vercel.app/api?username=tawsif-raza&show_icons=true&hide_border=true&bg_color=0b0f19&title_color=e8c877&text_color=c9d1d9&icon_color=e8c877&ring_color=e8c877&count_private=true" alt="GitHub stats"/>
-    </td>
-    <td align="center" width="48%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=tawsif-raza&hide_border=true&background=0b0f19&stroke=e8c877&fire=e8c877&text=c9d1d9&side_by_side=false" alt="Streak"/>
+    <td align="center">
+      <table>
+        <tr>
+          <td align="center" width="25%" style="background: #101828; border: 1px solid #2a3550; border-radius: 10px; padding: 16px 8px;">
+            <div style="font-size: 28px; font-weight: 800; color: #e8c877;">26</div>
+            <div style="color: #8b949e; font-size: 13px;">Commits · last 12 mo</div>
+          </td>
+          <td align="center" width="25%" style="background: #101828; border: 1px solid #2a3550; border-radius: 10px; padding: 16px 8px;">
+            <div style="font-size: 28px; font-weight: 800; color: #e8c877;">8</div>
+            <div style="color: #8b949e; font-size: 13px;">Public Projects</div>
+          </td>
+          <td align="center" width="25%" style="background: #101828; border: 1px solid #2a3550; border-radius: 10px; padding: 16px 8px;">
+            <div style="font-size: 28px; font-weight: 800; color: #e8c877;">1</div>
+            <div style="color: #8b949e; font-size: 13px;">PR Merged</div>
+          </td>
+          <td align="center" width="25%" style="background: #101828; border: 1px solid #2a3550; border-radius: 10px; padding: 16px 8px;">
+            <div style="font-size: 28px; font-weight: 800; color: #e8c877;">3</div>
+            <div style="color: #8b949e; font-size: 13px;">Core Languages</div>
+          </td>
+        </tr>
+      </table>
     </td>
   </tr>
   <tr>
-    <td align="center" colspan="2" style="padding-top: 10px;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tawsif-raza&layout=compact&hide_border=true&bg_color=0b0f19&title_color=e8c877&text_color=c9d1d9" alt="Top languages"/>
+    <td width="55%" valign="top" style="padding: 8px 4px 0 4px;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=tawsif-raza&hide_border=true&background=0b0f19&stroke=e8c877&fire=e8c877&text=c9d1d9&side_by_side=true" alt="GitHub streak"/>
+    </td>
+    <td width="45%" valign="top" style="padding: 8px 4px 0 4px;">
+      <div style="background: #101828; border: 1px solid #2a3550; border-radius: 10px; padding: 16px;">
+        <div style="color: #e8c877; font-weight: 700; margin-bottom: 12px;">🧠 Languages by the Numbers</div>
+        <div style="display: flex; justify-content: space-between; color: #c9d1d9; font-size: 14px;"><b>Python</b><span style="color: #e8c877;">80%</span></div>
+        <div style="background: #1c2438; border-radius: 6px; height: 10px; margin-top: 4px;">
+          <div style="background: linear-gradient(90deg, #d4af37, #e8c877); height: 10px; width: 80%; border-radius: 6px;"></div>
+        </div>
+        <div style="display: flex; justify-content: space-between; color: #c9d1d9; font-size: 14px; margin-top: 10px;"><b>TypeScript</b><span style="color: #e8c877;">11%</span></div>
+        <div style="background: #1c2438; border-radius: 6px; height: 10px; margin-top: 4px;">
+          <div style="background: linear-gradient(90deg, #2b5f9e, #3178c6); height: 10px; width: 11%; border-radius: 6px;"></div>
+        </div>
+        <div style="display: flex; justify-content: space-between; color: #c9d1d9; font-size: 14px; margin-top: 10px;"><b>JavaScript</b><span style="color: #e8c877;">8%</span></div>
+        <div style="background: #1c2438; border-radius: 6px; height: 10px; margin-top: 4px;">
+          <div style="background: linear-gradient(90deg, #b8a11a, #f7df1e); height: 10px; width: 8%; border-radius: 6px;"></div>
+        </div>
+      </div>
     </td>
   </tr>
 </table>
