@@ -194,18 +194,6 @@
 
 <div align="center">
 
-## 📈 Contribution Graph
-
-</div>
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/4/tawsif-raza?style=outline&color=e8c877" alt="3D contribution graph"/>
-</p>
-
-<br/>
-
-<div align="center">
-
 ## 🤝 Let's Connect
 
 [✉️ Email](mailto:tawsifk35@gmail.com) &nbsp;·&nbsp; [💼 raaz.com](https://raaz.com) &nbsp;·&nbsp; 📍 Bengaluru, India
