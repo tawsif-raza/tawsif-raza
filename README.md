@@ -1,6 +1,6 @@
 <div align="center">
 
-![Banner](img/banner.png)
+![Banner](img/banner.jpg)
 
 ### 👋 Hello, I'm **Tawsif Khan**
 
