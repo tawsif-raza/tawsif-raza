@@ -1,206 +1,189 @@
 <div align="center">
 
-![Banner](img/banner.jpg?v=2)
+<img src="img/banner.jpg?v=2" alt="Tawsif Khan — AI Automation Engineer" width="100%"/>
 
-### 👋 Hello, I'm **Tawsif Khan**
+# Hi, I'm Tawsif Khan
 
-#### AI Automation Engineer &nbsp;·&nbsp;
+### AI Automation Engineer · Agentic Systems · Full-Stack Developer
 
-> I build **agentic AI pipelines** that create content on autopilot —
-> and craft **premium web experiences** that feel like a luxury brand.
+<a href="https://github.com/tawsif-raza">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3200&pause=900&color=E8C877&center=true&vCenter=true&width=620&lines=Agentic+AI+pipelines+that+run+on+autopilot;RAG+systems+grounded+in+real+company+data;LoRA-fine-tuned+voice+models;Premium+web+experiences+with+Next.js" alt="Typing summary"/>
+</a>
 
-📍 Bengaluru, India &nbsp;·&nbsp; 💼 [raaz.com](https://raaz.com) &nbsp;·&nbsp; ✉️ [tawsifk35@gmail.com](mailto:tawsifk35@gmail.com)
-
-&nbsp;
-
-</div>
-
-<br/>
-
-<table>
-  <tr>
-    <td align="center">
-      <table>
-        <tr>
-          <td align="center" width="25%" style="background: #101828; border: 1px solid #2a3550; border-radius: 10px; padding: 16px 8px;">
-            <div style="font-size: 28px; font-weight: 800; color: #e8c877;">26</div>
-            <div style="color: #8b949e; font-size: 13px;">Commits · last 12 mo</div>
-          </td>
-          <td align="center" width="25%" style="background: #101828; border: 1px solid #2a3550; border-radius: 10px; padding: 16px 8px;">
-            <div style="font-size: 28px; font-weight: 800; color: #e8c877;">8</div>
-            <div style="color: #8b949e; font-size: 13px;">Public Projects</div>
-          </td>
-          <td align="center" width="25%" style="background: #101828; border: 1px solid #2a3550; border-radius: 10px; padding: 16px 8px;">
-            <div style="font-size: 28px; font-weight: 800; color: #e8c877;">1</div>
-            <div style="color: #8b949e; font-size: 13px;">PR Merged</div>
-          </td>
-          <td align="center" width="25%" style="background: #101828; border: 1px solid #2a3550; border-radius: 10px; padding: 16px 8px;">
-            <div style="font-size: 28px; font-weight: 800; color: #e8c877;">3</div>
-            <div style="color: #8b949e; font-size: 13px;">Core Languages</div>
-          </td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-  <tr>
-    <td width="55%" valign="top" style="padding: 8px 4px 0 4px;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=tawsif-raza&hide_border=true&background=0b0f19&stroke=e8c877&fire=e8c877&text=c9d1d9&side_by_side=true" alt="GitHub streak"/>
-    </td>
-    <td width="45%" valign="top" style="padding: 8px 4px 0 4px;">
-      <div style="background: #101828; border: 1px solid #2a3550; border-radius: 10px; padding: 16px;">
-        <div style="color: #e8c877; font-weight: 700; margin-bottom: 12px;">🧠 Languages by the Numbers</div>
-        <div style="display: flex; justify-content: space-between; color: #c9d1d9; font-size: 14px;"><b>Python</b><span style="color: #e8c877;">80%</span></div>
-        <div style="background: #1c2438; border-radius: 6px; height: 10px; margin-top: 4px;">
-          <div style="background: linear-gradient(90deg, #d4af37, #e8c877); height: 10px; width: 80%; border-radius: 6px;"></div>
-        </div>
-        <div style="display: flex; justify-content: space-between; color: #c9d1d9; font-size: 14px; margin-top: 10px;"><b>TypeScript</b><span style="color: #e8c877;">11%</span></div>
-        <div style="background: #1c2438; border-radius: 6px; height: 10px; margin-top: 4px;">
-          <div style="background: linear-gradient(90deg, #2b5f9e, #3178c6); height: 10px; width: 11%; border-radius: 6px;"></div>
-        </div>
-        <div style="display: flex; justify-content: space-between; color: #c9d1d9; font-size: 14px; margin-top: 10px;"><b>JavaScript</b><span style="color: #e8c877;">8%</span></div>
-        <div style="background: #1c2438; border-radius: 6px; height: 10px; margin-top: 4px;">
-          <div style="background: linear-gradient(90deg, #b8a11a, #f7df1e); height: 10px; width: 8%; border-radius: 6px;"></div>
-        </div>
-      </div>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <h3>🤖 Agentic AI</h3>
-      <p>Plan-then-execute workflows that automate content creation end-to-end — from research to publishing.</p>
-    </td>
-    <td align="center" width="33%">
-      <h3>⚡ Generative Pipelines</h3>
-      <p>Image → video → publishing automation, and custom voice models trained with LoRA.</p>
-    </td>
-    <td align="center" width="33%">
-      <h3>🌐 Premium Web</h3>
-      <p>Next.js, TypeScript & Tailwind — interfaces engineered to feel high-end.</p>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<div align="center">
-
-## 🚀 Featured Projects
+<p>
+  <img src="https://img.shields.io/badge/Bengaluru,_India-0b0f19?style=flat-square&logo=googlemaps&logoColor=e8c877" alt="Location"/>
+  <a href="mailto:tawsifk35@gmail.com"><img src="https://img.shields.io/badge/tawsifk35@gmail.com-0b0f19?style=flat-square&logo=gmail&logoColor=e8c877" alt="Email"/></a>
+  <a href="https://raaz.com"><img src="https://img.shields.io/badge/raaz.com-0b0f19?style=flat-square&logo=googlechrome&logoColor=e8c877" alt="Website"/></a>
+  <img src="https://komarev.com/ghpvc/?username=tawsif-raza&style=flat-square&color=e8c877&label=profile+views" alt="Profile views"/>
+</p>
 
 </div>
 
+---
+
+## About Me
+
+I build **AI systems that do real work** — not demos. My focus is agentic pipelines that plan, generate, and publish content end-to-end, retrieval-augmented assistants grounded in private data, and custom speech models. On the other side of the stack, I ship **premium web frontends** that feel like a luxury brand.
+
+```python
+class TawsifKhan:
+    role      = "AI Automation Engineer"
+    location  = "Bengaluru, India"
+    focus     = ["Agentic workflows", "RAG", "Generative media pipelines", "LoRA fine-tuning"]
+    web       = ["Next.js", "TypeScript", "Tailwind CSS", "Three.js"]
+    building  = "A fully autonomous content engine — plans, generates, and publishes on its own."
+    principle = "Plan → execute → verify. Automate the boring, engineer the hard."
+```
+
 <table>
   <tr>
-    <td width="50%" style="vertical-align: top; padding: 8px;">
-      <table>
-        <tr>
-          <td style="background: #101828; border: 1px solid #2a3550; border-radius: 10px; padding: 18px;">
-            <h3 style="margin-top: 0;"><img src="img/marks/highland-estate.svg" width="34" height="34" alt="" style="vertical-align: -4px; margin-right: 8px; border-radius: 8px;">highland-estate</h3>
-            <p>A <b>luxury coffee-estate resort landing page</b>. Cinematic hero, smooth-scroll sections, and a modern Next.js architecture built to feel like a five-star hospitality brand.</p>
-            <a href="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/></a>
-            <a href="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/></a>
-            <a href="https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white"><img src="https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white"/></a>
-            <br/><br/>
-            <a href="https://github.com/tawsif-raza/highland-estate">⚡ <b>View Code</b></a>
-          </td>
-        </tr>
-      </table>
+    <td width="33%" valign="top">
+      <h4>🤖 Agentic AI</h4>
+      Plan-then-execute agents that research, write grounded content, and assemble publish-ready output with minimal human input.
     </td>
-    <td width="50%" style="vertical-align: top; padding: 8px;">
-      <table>
-        <tr>
-          <td style="background: #101828; border: 1px solid #2a3550; border-radius: 10px; padding: 18px;">
-            <h3 style="margin-top: 0;"><img src="img/marks/ai-video-studio.svg" width="34" height="34" alt="" style="vertical-align: -4px; margin-right: 8px; border-radius: 8px;">ai-video-studio</h3>
-            <p>A <b>generative AI content studio</b>. Automated content production using a plan-then-execute agentic workflow — the agent plans, writes grounded content, and assembles publish-ready output.</p>
-            <a href="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
-            <a href="https://img.shields.io/badge/Agentic_AI-C88B5A?style=for-the-badge"><img src="https://img.shields.io/badge/Agentic_AI-C88B5A?style=for-the-badge"/></a>
-            <a href="https://img.shields.io/badge/LLM_Workflows-412991?style=for-the-badge&logo=openai&logoColor=white"><img src="https://img.shields.io/badge/LLM_Workflows-412991?style=for-the-badge&logo=openai&logoColor=white"/></a>
-            <br/><br/>
-            <a href="https://github.com/tawsif-raza/ai-video-studio">⚡ <b>View Code</b></a>
-          </td>
-        </tr>
-      </table>
+    <td width="33%" valign="top">
+      <h4>🧠 RAG &amp; LLM Systems</h4>
+      Retrieval pipelines over company knowledge — chunking, embeddings, vector search, and answers grounded in source documents.
     </td>
-  </tr>
-  <tr>
-    <td width="50%" style="vertical-align: top; padding: 8px;">
-      <table>
-        <tr>
-          <td style="background: #101828; border: 1px solid #2a3550; border-radius: 10px; padding: 18px;">
-            <h3 style="margin-top: 0;"><img src="img/marks/ai-auto-post.svg" width="34" height="34" alt="" style="vertical-align: -4px; margin-right: 8px; border-radius: 8px;">ai-auto-post</h3>
-            <p>An <b>end-to-end AI publishing pipeline</b>: auto image generation → YouTube video publishing, fully automated with agentic workflows. Content that posts itself.</p>
-            <a href="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
-            <a href="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-            <a href="https://img.shields.io/badge/Image_Gen-5B7FA6?style=for-the-badge&logo=imagekit&logoColor=white"><img src="https://img.shields.io/badge/Image_Gen-5B7FA6?style=for-the-badge&logo=imagekit&logoColor=white"/></a>
-            <br/><br/>
-            <a href="https://github.com/tawsif-raza/ai-auto-post">⚡ <b>View Code</b></a>
-          </td>
-        </tr>
-      </table>
-    </td>
-    <td width="50%" style="vertical-align: top; padding: 8px;">
-      <table>
-        <tr>
-          <td style="background: #101828; border: 1px solid #2a3550; border-radius: 10px; padding: 18px;">
-            <h3 style="margin-top: 0;"><img src="img/marks/ai-voice-employee.svg" width="34" height="34" alt="" style="vertical-align: -4px; margin-right: 8px; border-radius: 8px;">ai-voice-employee</h3>
-            <p>The <b>AI voice employee</b>. Custom voice models via LoRA fine-tuning — training speech that sounds natural, consistent, and on-brand.</p>
-            <a href="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
-            <a href="https://img.shields.io/badge/LoRA_Training-8E44AD?style=for-the-badge"><img src="https://img.shields.io/badge/LoRA_Training-8E44AD?style=for-the-badge"/></a>
-            <a href="https://img.shields.io/badge/Speech_AI-FF9900?style=for-the-badge"><img src="https://img.shields.io/badge/Speech_AI-FF9900?style=for-the-badge"/></a>
-            <br/><br/>
-            <a href="https://github.com/tawsif-raza/ai-voice-employee">⚡ <b>View Code</b></a>
-          </td>
-        </tr>
-      </table>
+    <td width="33%" valign="top">
+      <h4>🎙️ Generative Media</h4>
+      Image → video → YouTube automation, plus custom voice models trained with LoRA for natural, on-brand speech.
     </td>
   </tr>
 </table>
 
-<br/>
+---
+
+## Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><img src="img/marks/ai-video-studio.svg" width="28" height="28" align="center" alt=""/>&nbsp; <a href="https://github.com/tawsif-raza/ai-video-studio">ai-video-studio</a></h3>
+      <p>Generative AI content studio. A <b>plan-then-execute agent</b> decomposes a brief into steps, writes grounded content, and assembles publish-ready output.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+      <img src="https://img.shields.io/badge/Agentic_AI-C88B5A?style=flat-square" alt="Agentic AI"/>
+      <img src="https://img.shields.io/badge/LLM_Workflows-412991?style=flat-square" alt="LLM Workflows"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3><img src="img/marks/rag-chatbot.svg" width="28" height="28" align="center" alt=""/>&nbsp; <a href="https://github.com/tawsif-raza/RGA_CHATBOT">RAG Chatbot</a></h3>
+      <p>A <b>retrieval-augmented chatbot</b> built on a specific company's data — answers are grounded in retrieved documents instead of the model's memory.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+      <img src="https://img.shields.io/badge/RAG-3A8F74?style=flat-square" alt="RAG"/>
+      <img src="https://img.shields.io/badge/Vector_Search-5B7FA6?style=flat-square" alt="Vector Search"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><img src="img/marks/ai-auto-post.svg" width="28" height="28" align="center" alt=""/>&nbsp; <a href="https://github.com/tawsif-raza/ai-auto-post">ai-auto-post</a></h3>
+      <p>End-to-end <b>AI publishing pipeline</b>: automated image generation → video assembly → YouTube upload, orchestrated by agentic workflows. Content that posts itself.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+      <img src="https://img.shields.io/badge/YouTube_API-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube API"/>
+      <img src="https://img.shields.io/badge/Image_Gen-5B7FA6?style=flat-square" alt="Image Generation"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3><img src="img/marks/ai-voice-employee.svg" width="28" height="28" align="center" alt=""/>&nbsp; <a href="https://github.com/tawsif-raza/ai-voice-employee">ai-voice-employee</a></h3>
+      <p>An <b>AI voice employee</b>. Custom voice models trained via <b>LoRA fine-tuning</b> for speech that is natural, consistent, and on-brand.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+      <img src="https://img.shields.io/badge/LoRA-8E44AD?style=flat-square" alt="LoRA"/>
+      <img src="https://img.shields.io/badge/Speech_AI-FF9900?style=flat-square" alt="Speech AI"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><img src="img/marks/highland-estate.svg" width="28" height="28" align="center" alt=""/>&nbsp; <a href="https://github.com/tawsif-raza/highland-estate">highland-estate</a></h3>
+      <p>Luxury coffee-estate resort landing page. Cinematic hero, smooth-scroll sections, and a modern Next.js architecture built to feel five-star.</p>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3><img src="img/marks/portfolio-3d.svg" width="28" height="28" align="center" alt=""/>&nbsp; <a href="https://github.com/tawsif-raza/jarvyhq-portfolio">jarvyhq-portfolio</a></h3>
+      <p>Personal AI/ML engineering portfolio — a <b>dark, cinematic 3D site</b>. Plus a <a href="https://github.com/tawsif-raza/Portfolio-web">full-stack version</a> with frontend, backend &amp; test suite.</p>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+      <img src="https://img.shields.io/badge/3D_Web-000000?style=flat-square&logo=threedotjs&logoColor=white" alt="3D Web"/>
+      <img src="https://img.shields.io/badge/Full--Stack-2A3550?style=flat-square" alt="Full-Stack"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Journey
+
+| When | Milestone |
+| :-- | :-- |
+| **Jul 2026** | Started building in public — shipped **ai-auto-post** (image → YouTube pipeline) and **ai-video-studio** (plan-then-execute agent) |
+| **Jul 2026** | Moved into speech AI with **ai-voice-employee** — custom voices via LoRA fine-tuning |
+| **Aug 2026** | Expanded into premium web — **highland-estate** (Next.js + Tailwind) and a full-stack **Portfolio-web** with tests |
+| **Sep 2026** | Built a cinematic 3D portfolio and a **RAG chatbot** grounded in company data |
+| **Now** | Combining it all into a **fully autonomous content engine** that plans, generates, and publishes on its own |
+
+---
+
+## Tech Stack
+
+<table>
+  <tr>
+    <td><b>Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>AI / LLM</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI"/>
+      <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini"/>
+      <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+      <img src="https://img.shields.io/badge/RAG-3A8F74?style=flat-square" alt="RAG"/>
+      <img src="https://img.shields.io/badge/LoRA-8E44AD?style=flat-square" alt="LoRA"/>
+      <img src="https://img.shields.io/badge/Agents-C88B5A?style=flat-square" alt="Agents"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Web</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Tooling</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/YouTube_API-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube API"/>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+      <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+## GitHub Activity
 
 <div align="center">
-
-## 🧰 Tech Stack
-
+  <img src="https://streak-stats.demolab.com?user=tawsif-raza&theme=dark&hide_border=true&background=0B0F19&ring=E8C877&fire=E8C877&currStreakLabel=E8C877&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" alt="GitHub streak" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tawsif-raza&layout=compact&hide_border=true&bg_color=0B0F19&title_color=E8C877&text_color=C9D1D9&langs_count=5" alt="Top languages" width="40%"/>
 </div>
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
-      <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/></a>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></a>
-      <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/></a>
-      <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/></a>
-      <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/></a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" style="padding-top: 8px;">
-      <a href="https://openai.com/"><img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/></a>
-      <a href="https://ai.google.dev/"><img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini"/></a>
-      <a href="https://developers.google.com/youtube"><img src="https://img.shields.io/badge/YouTube_API-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube API"/></a>
-      <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
-      <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-    </td>
-  </tr>
-</table>
-
-<br/>
+---
 
 <div align="center">
 
-## 🤝 Let's Connect
+## Let's Connect
 
-[✉️ Email](mailto:tawsifk35@gmail.com) &nbsp;·&nbsp; [💼 raaz.com](https://raaz.com) &nbsp;·&nbsp; 📍 Bengaluru, India
+Open to **AI automation**, **agentic workflow**, and **premium web** projects.
 
-<br/>
+<a href="mailto:tawsifk35@gmail.com"><img src="https://img.shields.io/badge/Email_Me-E8C877?style=for-the-badge&logo=gmail&logoColor=0B0F19" alt="Email"/></a>
+<a href="https://raaz.com"><img src="https://img.shields.io/badge/Website-0B0F19?style=for-the-badge&logo=googlechrome&logoColor=E8C877" alt="Website"/></a>
+<a href="https://github.com/tawsif-raza"><img src="https://img.shields.io/badge/GitHub-0B0F19?style=for-the-badge&logo=github&logoColor=E8C877" alt="GitHub"/></a>
 
-<sub>🔭 Currently building a fully autonomous content engine — that plans, generates, and publishes on its own.</sub><br/><br/>
-<sub>© 2026 Tawsif Khan · Crafted with ❤️ and a dash of AI</sub>
+<sub>© 2026 Tawsif Khan · Built with care and a dash of AI</sub>
 
 </div>
