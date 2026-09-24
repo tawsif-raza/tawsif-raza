@@ -4,7 +4,7 @@
 
 ### 👋 Hello, I'm **Tawsif Khan**
 
-#### AI Automation Engineer &nbsp;·&nbsp; Full-Stack Developer
+#### AI Automation Engineer &nbsp;·&nbsp;
 
 > I build **agentic AI pipelines** that create content on autopilot —
 > and craft **premium web experiences** that feel like a luxury brand.
