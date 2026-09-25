@@ -2,8 +2,6 @@
 
 <img src="img/octocat.jpg" alt="Disco-ball Octocat" width="100%"/>
 
-<img src="img/banner.jpg?v=2" alt="Tawsif Khan — AI Automation Engineer" width="100%"/>
-
 # Hi, I'm Tawsif Khan
 
 ### AI Automation Engineer · Agentic Systems · Full-Stack Developer
