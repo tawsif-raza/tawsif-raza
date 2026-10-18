@@ -16,9 +16,9 @@ A real-time voice agent: Twilio Media Streams in, Deepgram streaming STT, then a
 
 ### [ai-video-studio](https://github.com/tawsif-raza/ai-video-studio): multi-agent video production platform
 
-<img src="assets/pipeline-video.svg" alt="Production path: Director Studio planning agents, human media, Producer Studio edit plan, FFmpeg execution engine, ffprobe postflight verification, YouTube publishing" width="100%">
+<img src="assets/pipeline-video.svg" alt="Production path: Director Studio planning agents, human media, Producer Studio edit plan, FFmpeg execution engine, ffprobe postflight verification, YouTube publish-readiness checks" width="100%">
 
-Planning agents (research, story, scenes, shots, characters, environments, camera, prompts) exchange **typed Pydantic contracts with two-layer validation**. A deterministic producer turns their plan into an edit timeline, an FFmpeg engine renders it, and ffprobe postflight checks gate success, so "the process exited 0" is never mistaken for "the video is correct". The LLM layer fails over across OpenRouter, Gemini, OpenAI, Groq and Cerebras. Ships with a FastAPI backend streaming run events over SSE, a Next.js dashboard, YouTube resumable upload, and 900+ tests.
+Planning agents (research, story, scenes, shots, characters, environments, camera, prompts) exchange **typed Pydantic contracts with two-layer validation**. A deterministic producer turns their plan into an edit timeline, an FFmpeg engine renders it, and ffprobe postflight checks gate success, so "the process exited 0" is never mistaken for "the video is correct". The LLM layer fails over across OpenRouter, Gemini, OpenAI, Groq and Cerebras. Ships with a FastAPI backend streaming run events over SSE, a Next.js dashboard, a YouTube resumable-upload client, and 900+ tests.
 
 `Python` `FastAPI` `Pydantic` `FFmpeg` `Gemini` `OpenRouter` `Next.js` `TypeScript` `PostgreSQL`
 
