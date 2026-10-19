@@ -48,7 +48,7 @@ Dense Pinecone retrieval plus BM25, fused with weighted reciprocal rank fusion a
 
 | Area | Tools I've built with |
 |---|---|
-| LLM systems | RAG (dense, BM25, RRF, cross-encoder rerank), agent orchestration with typed contracts, LangChain, LangGraph, guardrails, multi-provider failover |
+| LLM systems | RAG (dense, BM25, RRF, cross-encoder rerank), agent orchestration with typed contracts, tool calling, LangChain, guardrails, multi-provider failover |
 | Models | Hugging Face Transformers, PEFT/QLoRA fine-tuning (Qwen2.5), sentence-transformers, Claude, Gemini, OpenAI, Groq, OpenRouter |
 | Voice | Twilio Media Streams, Deepgram STT, ElevenLabs TTS, barge-in handling |
 | Backend | Python, FastAPI, Pydantic, SQLAlchemy, Alembic, PostgreSQL, SSE, WebSockets |
