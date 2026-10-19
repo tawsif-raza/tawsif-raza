@@ -20,13 +20,19 @@ A real-time voice agent: Twilio Media Streams in, Deepgram streaming STT, then a
 
 Planning agents (research, story, scenes, shots, characters, environments, camera, prompts) exchange **typed Pydantic contracts with two-layer validation**. A deterministic producer turns their plan into an edit timeline, an FFmpeg engine renders it, and ffprobe postflight checks gate success, so "the process exited 0" is never mistaken for "the video is correct". The LLM layer fails over across OpenRouter, Gemini, OpenAI, Groq and Cerebras. Ships with a FastAPI backend streaming run events over SSE, a Next.js dashboard, a YouTube resumable-upload client, and 900+ tests.
 
+<details>
+<summary>Dashboard screenshot</summary>
+<br>
+<img src="assets/ai-video-studio-story.jpg" alt="AI Video Studio dashboard, Story tab: a generated story plan with logline, characters and a scene breakdown" width="100%">
+</details>
+
 `Python` `FastAPI` `Pydantic` `FFmpeg` `Gemini` `OpenRouter` `Next.js` `TypeScript` `PostgreSQL`
 
 ### [RGA_CHATBOT](https://github.com/tawsif-raza/RGA_CHATBOT): enterprise RAG with hybrid retrieval
 
 <img src="assets/pipeline-rag.svg" alt="Query path: guardrails, dense Pinecone retrieval and BM25 keyword retrieval, weighted reciprocal rank fusion, cross-encoder rerank, QLoRA-tuned Qwen generation, streamed cited answer" width="100%">
 
-Dense Pinecone retrieval plus BM25, fused with weighted reciprocal rank fusion and reranked by a cross-encoder, then answered by a QLoRA-tuned Qwen model with citations and streamed to a Next.js UI. Evaluated on a held-out split: adding BM25 raised Context Recall@3 **from 8.5% to 12.8%**. The README documents the method and why the ceiling is still low. Ingestion is idempotent and checkpointed and was run at 50k documents (about 300k vectors). Arize Phoenix traces every retrieval, rerank and generation step.
+Dense Pinecone retrieval plus BM25, fused with weighted reciprocal rank fusion and reranked by a cross-encoder, then answered by a QLoRA-tuned Qwen model with citations and streamed to a Next.js UI. On a 47-question held-out split, adding BM25 moved Context Recall@3 **from 8.5% to 12.8%** (4 → 6 questions) with about 10% of the corpus indexed. The evaluation write-up covers the conditions, confidence intervals, and why that ceiling is still low. Ingestion is idempotent and checkpointed and was run at 50k documents (about 300k vectors). Arize Phoenix traces every retrieval, rerank and generation step.
 
 `Python` `FastAPI` `LangChain` `Pinecone` `BM25` `sentence-transformers` `Arize Phoenix` `Next.js`
 
