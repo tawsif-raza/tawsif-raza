@@ -39,7 +39,7 @@ Dense Pinecone retrieval plus BM25, fused with weighted reciprocal rank fusion a
 <details>
 <summary><b>Also on GitHub</b></summary>
 
-- [highland-estate](https://github.com/tawsif-raza/highland-estate): Next.js 16 and React Three Fiber landing page for a coffee-estate resort, with time-of-day lighting and scroll-paced storytelling.
+- [highland-estate](https://github.com/tawsif-raza/highland-estate): Next.js 16 resort site with a tool-calling booking concierge (availability, pricing, booking; Gemini → Kimi → Groq failover) and a React Three Fiber hero driven by live time and weather.
 - [freshbliss](https://github.com/tawsif-raza/freshbliss): fruit-box e-commerce storefront on Next.js with a Firebase backend and CI.
 
 </details>
